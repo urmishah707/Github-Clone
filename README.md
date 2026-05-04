@@ -1,16 +1,3 @@
-# githubclone-project
-
- ! FORGOT GITINGORE - DELETE NODE.MODULES & maybe ?.DS_Store? !
- ! Nothing in MIDDLEWARE folder - double check !
- ! Check if aws-config.js file is still needed !
-
-Possible fixes to consider:
-- In profile, user's selected user-name shows up as "username" and not user they provided.
-- Suggested repo's and your repo's not showing up (name's of them - related to repo's / issues file?)
-
-//remove node modules?
-
-
 ## **Github-Clone**
 
 ⚙️ Built with:
@@ -23,5 +10,3 @@ Possible fixes to consider:
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logoColor=white)
-
-
